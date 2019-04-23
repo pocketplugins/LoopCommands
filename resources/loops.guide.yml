@@ -1,0 +1,14 @@
+---
+# you can define unlimited loops but for maximum server performance define 1-3 loops
+loop1: # this name is customizable
+  commands:
+    - "use commands without /"
+    - "make sure they are working"
+  interval: 10 #in seconds
+  as: 'Console' #Can be 1. Console(default) 2. OnlinePlayers 3. OnlineOpPlayers
+  runs: 0 # positive number for limit execution times
+startup: # onEnable
+  commands:
+    - "same as loops"
+  as: "same as loops"
+...
