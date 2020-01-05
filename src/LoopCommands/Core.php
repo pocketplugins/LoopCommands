@@ -1,5 +1,5 @@
 <?php
-namespace LoopCommands;
+namespace PocketPlugins\LoopCommands;
 
 use pocketmine\plugin\PluginBase;
 use pocketmine\utils\Config;
