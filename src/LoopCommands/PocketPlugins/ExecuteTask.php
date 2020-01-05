@@ -1,5 +1,5 @@
 <?php
-namespace LoopCommands;
+namespace PocketPlugins\LoopCommands;
 
 use pocketmine\scheduler\Task;
 use pocketmine\command\ConsoleCommandSender;
