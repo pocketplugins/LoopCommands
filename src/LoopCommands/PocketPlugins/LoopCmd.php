@@ -1,5 +1,5 @@
 <?php
-namespace LoopCommands;
+namespace PocketPlugins\LoopCommands;
 
 use pocketmine\command\Command;
 use pocketmine\command\CommandSender;
