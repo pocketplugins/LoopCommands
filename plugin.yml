@@ -1,6 +1,6 @@
 name: LoopCommands
 version: 1.0.0
-main: LoopCommands\Core
+main: PocketPlugins\LoopCommands\Core
 api: 3.0.0
 author: NaderJafari
 description: Plugin for execute commands at custom interval
